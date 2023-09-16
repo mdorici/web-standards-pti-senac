@@ -1,12 +1,11 @@
-# PTI Web Standards: 
+## PTI Web Standards:
 
-Landing Page para Autônomo
+**Landing Page para Autônomo**
 
-Exercício proposto no curso de graduação em Análise e Desenvolvimento de Sistemas do Centro Universitário SENAC
-
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-
+Exercício proposto no curso de graduação em Análise e Desenvolvimento de Sistemas do Centro Universitário SENAC.
+<br>
 
 
+<a href="https://atelie-amigurumi.netlify.app/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Netlify-%23E4405F?style=for-the-badge&logoColor=white" target="_blank"></a>
 
-Netlify: https://atelie-amigurumi.netlify.app/
+
